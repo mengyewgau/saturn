@@ -1,0 +1,28 @@
+# Build output
+bin/
+
+# Go
+*.test
+*.out
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Logs and PID files
+*.log
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Quickstart examples
+quickstart/
